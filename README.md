@@ -143,10 +143,11 @@
       <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=arzen1kos&layout=donut&langs_count=4&theme=transparent">
       </td>
     </tr>
-    <tr>
-      <td colspan="3">
-      <!--START_SECTION:waka-->
-      <code>
+  </table>
+  
+  <!--START_SECTION:waka-->
+  
+  ```text
         From: 26 September 2026 - To: 26 October 2026
         Total Time: 71 hrs 45 mins
         Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
@@ -159,12 +160,9 @@
         Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
         Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
         YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-      </code>
-      <!--END_SECTION:waka-->
-      </td>
-    </tr>
-  </table>
-
+  ```
+  <!--END_SECTION:waka-->
+  
   <br/>
 
   <details>
