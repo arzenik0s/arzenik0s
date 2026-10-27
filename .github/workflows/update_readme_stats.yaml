@@ -1,0 +1,48 @@
+name: Work Stats Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  update-readme:
+    name: Update XP.track()
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          SECTION_NAME: xp_track
+
+          # General
+          SHOW_TITLE: false
+          SHOW_UPDATED_DATE: true
+          TIME_RANGE: last_30_days
+          CODE_LANG: txt
+          BLOCKS: ░▒▓█
+
+          # Time Statistics
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+
+          # Languages
+          SHOW_LANGUAGE: true
+          LANG_COUNT: 5
+
+          # Projects
+          SHOW_PROJECTS: true
+          PROJECT_COUNT: 10
+
+          # Coding Activity
+          SHOW_LINES_OF_CODE: true
+          SHOW_PROFILE_VIEWS: true
+
+          # Sorting
+          LANG_SORT_BY: time
+          PROJECT_SORT_BY: time
+
+          COMMIT_MESSAGE: "docs: update XP.track()"
