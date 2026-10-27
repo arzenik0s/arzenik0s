@@ -1,48 +1,36 @@
-name: Work Stats Readme
+name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
-
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update XP.track()
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-
+    permissions: 
+      contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          SECTION_NAME: xp_track
-
-          # General
-          SHOW_TITLE: false
-          SHOW_UPDATED_DATE: true
-          TIME_RANGE: last_30_days
-          CODE_LANG: txt
-          BLOCKS: ░▒▓█
-
-          # Time Statistics
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-
-          # Languages
-          SHOW_LANGUAGE: true
-          LANG_COUNT: 5
-
-          # Projects
-          SHOW_PROJECTS: true
-          PROJECT_COUNT: 10
-
-          # Coding Activity
-          SHOW_LINES_OF_CODE: true
-          SHOW_PROFILE_VIEWS: true
-
-          # Sorting
-          LANG_SORT_BY: time
-          PROJECT_SORT_BY: time
-
-          COMMIT_MESSAGE: "docs: update XP.track()"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_SHORT_INFO: "False"
+          SYMBOL_VERSION: 2
+          BADGE_STYLE : "for-the-badge"
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#6304a7"
+          BAR_TRACK_COLOR: "#ca90f3"
+          BAR_RADIUS: "1"
+          TEXT_PRIMARY_COLOR: "#c9d1d9"
+          TEXT_SECONDARY_COLOR: "#8b949e"
