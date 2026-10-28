@@ -145,24 +145,37 @@
   </table>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2036%20mins-blue?style=for-the-badge)
 
-```txt
-From: 26 September 2026 - To: 26 October 2026
+**I'm an Early 🐤** 
 
-Total Time: 71 hrs 45 mins
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">0 commits</text><rect x="280" y="6" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="6" width="0" height="8" rx="1" fill="#6304a7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">7 commits</text><rect x="280" y="30" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="30" width="229" height="8" rx="1" fill="#6304a7"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">63.64%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">4 commits</text><rect x="280" y="54" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="54" width="131" height="8" rx="1" fill="#6304a7"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">36.36%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">0 commits</text><rect x="280" y="78" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="78" width="0" height="8" rx="1" fill="#6304a7"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text></svg>
 
-Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
-Markdown                           16 hrs 32 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-TypeScript                         7 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-JSON                               5 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-CSS                                5 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-```
 
+📊 **This Week I Spent My Time On** 
+
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Astro</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">17 hrs 27 mins</text><rect x="280" y="6" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="6" width="151" height="8" rx="1" fill="#6304a7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">42.02%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">7 hrs 16 mins</text><rect x="280" y="30" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="30" width="63" height="8" rx="1" fill="#6304a7"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">17.51%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">7 hrs 14 mins</text><rect x="280" y="54" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="54" width="63" height="8" rx="1" fill="#6304a7"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">17.41%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 58 mins</text><rect x="280" y="78" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="78" width="26" height="8" rx="1" fill="#6304a7"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">7.16%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">CSS</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 26 mins</text><rect x="280" y="102" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="102" width="21" height="8" rx="1" fill="#6304a7"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">5.89%</text></svg>
+
+🔥 Editors: 
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">38 hrs 43 mins</text><rect x="280" y="6" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="6" width="336" height="8" rx="1" fill="#6304a7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">93.20%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Copilot CLI</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 49 mins</text><rect x="280" y="30" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="30" width="24" height="8" rx="1" fill="#6304a7"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">6.80%</text></svg>
+
+🐱‍💻 Projects: 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">prostate-care</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">16 hrs 50 mins</text><rect x="280" y="6" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="6" width="146" height="8" rx="1" fill="#6304a7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">40.54%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">prostate-care-website</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">14 hrs</text><rect x="280" y="30" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="30" width="121" height="8" rx="1" fill="#6304a7"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">33.72%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">portfolio</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">4 hrs 22 mins</text><rect x="280" y="54" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="54" width="38" height="8" rx="1" fill="#6304a7"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">10.54%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">arsenie-portfolio</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 20 mins</text><rect x="280" y="78" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="78" width="20" height="8" rx="1" fill="#6304a7"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">5.63%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">arzenikos.github.io</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 hr 7 mins</text><rect x="280" y="102" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="102" width="10" height="8" rx="1" fill="#6304a7"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">2.70%</text></svg>
+
+
+<svg width="720" viewBox="0 0 720 20" xmlns="http://www.w3.org/2000/svg"></svg>
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/arzenik0s/arzenik0s/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/10/2026 00:35:01 UTC
 <!--END_SECTION:waka-->
 
   <br/>
