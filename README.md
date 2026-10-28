@@ -44,7 +44,7 @@
       <td width="100"><a href="https://github.com/arzen1kos/prostate-care"><img title="Prometheus | Prostate Care AI RAG Website" width="80" height="80" alt="prometheus-app-logo" src="https://github.com/user-attachments/assets/2a33a655-abf0-47b1-8439-e02193796613" /></a></td>
       <td width="100"><a href="https://github.com/arzen1kos/music-catalogue"><img title="Music Catalogue CRUD Website" width="100" height="100" alt="music-catalogue" src="https://github.com/user-attachments/assets/ca1d94d3-5a93-4335-9596-fa1ecac3559a" /></a></td>
       <td width="100"><a href="https://github.com/arzen1kos/chess-maze"><img title="Chess Maze Game" width="100" height="100" alt="chess-maze-logo" src="https://github.com/user-attachments/assets/bb8ca55f-4764-463c-93a3-1990c91b8486" /></a></td>
-      <td width="100"><a href="https://github.com/arzen1kos/music-catalogue"><img title="Sikad | Triathlon App" width="100" height="100" alt="sikad-triathlon-app-logo-agentic" src="https://github.com/user-attachments/assets/d98a7885-379e-4ba1-881d-3ff8394d9129" /></a></td>
+      <td width="100"><a href="https://github.com/arzen1kos/triathlon-app"><img title="Sikad | Triathlon App" width="100" height="100" alt="sikad-triathlon-app-logo-agentic" src="https://github.com/user-attachments/assets/d98a7885-379e-4ba1-881d-3ff8394d9129" /></a></td>
 </td>
     </tr>
     <tr align="center">
@@ -79,7 +79,10 @@
       <td>
         <a href="https://www.cppreference.com/" title="C++"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cpp.png" alt="CPP" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>  
       </td>
-      <td><a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a></td>
+      <td>
+        <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="35px" height="35px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
+        <a href="https://ruby-doc.org/" title="Ruby"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ruby.svg" alt="Ruby" width="25px" height="25px" style="background:#1e293b;padding:4px;border-radius:8px;display:inline-block;"></a>
+      </td>
     </tr>
     <tr>
     <tr>
