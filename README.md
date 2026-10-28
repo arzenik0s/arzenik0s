@@ -9,34 +9,33 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
   
-   `✦ per aspera ad astra  ✦`
+✦  𝔭𝔢𝔯 𝔞𝔰𝔭𝔢𝔯𝔞 𝔞𝔡 𝔞𝔰𝔱𝔯𝔞  ✦
 
-  ~⟢~
+ᵗʰʳᵒᵘᵍʰ ʰᵃʳᵈˢʰⁱᵖˢ ᵗᵒ ᵗʰᵉ ˢᵗᵃʳˢ
 
   [![Website](https://img.shields.io/badge/Projects-View%20on%20GitHub%20Pages-181717?style=for-the-badge&logo=github)](arzen1kos.github.io)
 
-  <br/>
-  <br/>
+  ────────── ⋆⋅~⟢~⋅⋆ ──────────
 
   ## 🧭 ACTIVE_QUEST.log()
   Current side quests, experiments, and things consuming my weekends.
 
   <table>
     <tr>
-      <td><img width="100" height="100" alt="prometheus-app-logo" src="https://github.com/user-attachments/assets/2a33a655-abf0-47b1-8439-e02193796613" /></td>
-      <td><img width="100" height="100" alt="eyeball-maze-logo" src="https://github.com/user-attachments/assets/671bd7fb-493b-414d-bbfc-fe08e747d965" /></td>
-      <td><img width="100" height="100" alt="kronos-app-logo" src="https://github.com/user-attachments/assets/52d4ec59-129a-4127-9c12-8be466fa8d49" /></td>
-      <td><img width="100" height="100" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></td>
-      <td><img width="100" height="100" alt="orbitlens-app-logo" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></td>
-      <td><img width="100" height="100" alt="nightfall-app-logo" src="https://github.com/user-attachments/assets/57853555-6ab6-4c8e-ae0a-e1b37a03b0a7" />
+      <td><img width="80" height="80" alt="prometheus-app-logo" src="https://github.com/user-attachments/assets/2a33a655-abf0-47b1-8439-e02193796613" /></td>
+      <td><img width="80" height="80" alt="eyeball-maze-logo" src="https://github.com/user-attachments/assets/671bd7fb-493b-414d-bbfc-fe08e747d965" /></td>
+      <td><img width="80" height="80" alt="kronos-app-logo" src="https://github.com/user-attachments/assets/52d4ec59-129a-4127-9c12-8be466fa8d49" /></td>
+      <td><img width="80" height="80" alt="job-goblin-app-logo" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></td>
+      <td><img width="80" height="80" alt="orbitlens-app-logo" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></td>
+      <td><img width="80" height="80" alt="nightfall-app-logo" src="https://github.com/user-attachments/assets/57853555-6ab6-4c8e-ae0a-e1b37a03b0a7" />
 </td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/arzen1kos/prostate-care">Prometheus</a></td>
-      <td><a href="https://github.com/arzen1kos/eyeball-maze">Eyeball Maze </a></td>
+      <td><a href="https://github.com/arzen1kos/eyeball-maze">Eyeball Maze 🔒︎</a></td>
       <td><a href="https://github.com/arzen1kos/roster-agent">KronOS 🔒︎</a></td>
       <td><a href="https://github.com/arzen1kos/job-application-tracking-agent">JobGoblin 🔒︎</a></td>
-      <td><a href="https://github.com/arzen1kos/3d-geo-map">Orbitlens 🔒︎</a></td>
+      <td><a href="https://github.com/arzen1kos/orbitlens">Orbitlens 🔒︎</a></td>
       <td><a href="https://github.com/arzen1kos/nightfall-game">Nightfall 🔒︎</a></td>
     </tr>
   </table>
@@ -144,68 +143,59 @@
       </td>
     </tr>
   </table>
-  
-  <!--START_SECTION:waka-->
-  
-  ```text
-        From: 26 September 2026 - To: 26 October 2026
-        Total Time: 71 hrs 45 mins
-        Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
-        Markdown                           16 hrs 32 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-        TypeScript                         7 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-        JSON                               5 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-        CSS                                5 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-        Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-        C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-        Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-        Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-        YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-  ```
-  <!--END_SECTION:waka-->
-  
+    
+<!--START_SECTION:waka-->
+
+```txt
+From: 26 September 2026 - To: 26 October 2026
+
+Total Time: 71 hrs 45 mins
+
+Astro                              19 hrs 10 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+Markdown                           16 hrs 32 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+TypeScript                         7 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+JSON                               5 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+CSS                                5 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Other                              2 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+C#                                 2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Git Config                         2 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Bash                               2 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+YAML                               1 hr 55 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+```
+
+<!--END_SECTION:waka-->
+
   <br/>
 
-  <details>
-    <summary><h2>🏆 ACHIEVEMENTS.unlock()</h2></summary>
-    <table>
+  ## 🏆 ACHIEVEMENTS.unlock()
+
+  <table>
     <tr align="center" width="300">
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img title="Azure AI Apps and Agents Developer Associate" height="70" width="70" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img title="Azure Cloud and AI Security Engineer Associate" height="70" width="70" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img title="Azure SQL AI Developer Associate" height="70" width="70" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"></td>
+      <td><img title="Azure AI Fundamentals" height="70" width="70" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+      <td><img title="Azure Cybersecurity Fundamentals" height="70" width="70" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+      <td><img title="Azure Cloud Fundamentals" height="70" width="70" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
+      <td><img title="CompTIA IT Fundamentals" height="70" width="70" src="https://imgs.search.brave.com/IYv2zTIfNSKhb682861m8RlMTzJ2kqqgSJ7kBc-LLWo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvYTQ5/YmU5M2EtMzRmZi00/MjI0LTk5NmMtYjJj/OTc2YTVkYzlkL2Js/b2I"></td>
     </tr>
     <tr align="center">
-      <td>🔄️ Azure AI Apps and Agents Developer Associate<br/>(AI-103)</td>
-      <td>🔄️ Azure Cloud and AI Security Engineer Associate<br/>(SC-500)</td>
-      <td>🔄️ Azure SQL AI Developer Associate<br/>(DP-800)</td>
-    </tr>
-    <tr align="center">
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
-      <td><img height="100" width="100" src="https://learn.microsoft.com/en-nz/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"></td>
-    </tr>
-    <tr align="center">
-      <td>✅ Azure AI Fundamentals<br/>(AI-901)</td>
-      <td>✅ Azure Cybersecurity Fundamentals<br/>(SC-900)</td>
-      <td>✅ Azure Cloud Fundamentals<br/>(AZ-900)</td>
-    </tr>
-    <tr align="center">
-      <td><img height="100" width="100" src="https://imgs.search.brave.com/IYv2zTIfNSKhb682861m8RlMTzJ2kqqgSJ7kBc-LLWo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvYTQ5/YmU5M2EtMzRmZi00/MjI0LTk5NmMtYjJj/OTc2YTVkYzlkL2Js/b2I"></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr align="center">
-      <td>✅ CompTIA IT Fundamentals<br/>(ITF+)</td>
-      <td></td>
-      <td></td>
+      <td>🔄️ AI-103</td>
+      <td>🔄️ SC-500</td>
+      <td>🔄️ DP-800</td>
+      <td>✅ AI-901</td>
+      <td>✅ SC-900</td>
+      <td>✅ AZ-900</td>
+      <td>✅ ITF+</td>
     </tr>
   </table>
-  </details>
 
   <br/>
   <hr/>
   <br/>
 
-  ```
+  
+```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -231,11 +221,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⣿⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-  ```
+```
 
 ────────── ⋆⋅☆⋅⋆ ──────────
-
-𝔭𝔢𝔯 𝔞𝔰𝔭𝔢𝔯𝔞 𝔞𝔡 𝔞𝔰𝔱𝔯𝔞
-_through hardships to the stars_
 
 </div>
