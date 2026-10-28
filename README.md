@@ -147,10 +147,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2036%20mins-blue?style=for-the-badge)
 
-**I'm an Early 🐤** 
-
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">0 commits</text><rect x="280" y="6" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="6" width="0" height="8" rx="1" fill="#6304a7"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">8 commits</text><rect x="280" y="30" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="30" width="240" height="8" rx="1" fill="#6304a7"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">66.67%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">4 commits</text><rect x="280" y="54" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="54" width="120" height="8" rx="1" fill="#6304a7"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">33.33%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">0 commits</text><rect x="280" y="78" width="360" height="8" rx="1" fill="#ca90f3"/><rect x="280" y="78" width="0" height="8" rx="1" fill="#6304a7"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text></svg>
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 
 📊 **This Week I Spent My Time On** 
 
@@ -175,7 +172,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/arzenik0s/arzenik0s/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 00:43:51 UTC
+ Last Updated on 28/10/2026 00:44:11 UTC
 <!--END_SECTION:waka-->
 
   <br/>
