@@ -1,9 +1,9 @@
-name: Waka Readme
+name: Work Stats Readme
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
 
 jobs:
   update-readme:
@@ -16,7 +16,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           SHOW_TITLE: false
-          INPUT_SHOW_UPDATED_DATE: true
           TIME_RANGE: all_time
           CODE_LANG: txt
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
@@ -25,14 +24,6 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
 
-          INPUT_SHOW_LANGUAGE: true
           LANG_COUNT: 5
-
-          INPUT_SHOW_PROJECTS: true
-
-          INPUT_SHOW_PROFILE_VIEWS: true
-
-          LANG_SORT_BY: time
-          PROJECT_SORT_BY: time
 
           COMMIT_MESSAGE: "XP.track() (docs): update waka-readme graph with new metrics"
