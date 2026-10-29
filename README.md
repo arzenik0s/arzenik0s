@@ -171,7 +171,7 @@
   </table>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2036%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2041%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 
@@ -181,33 +181,28 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Astro                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   42.02 % 
-TypeScript               7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Markdown                 7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-CSS                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Astro                    17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.12 % 
+Markdown                 7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+TypeScript               5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🐱‍💻 Projects: 
-prostate-care            16 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.54 % 
-prostate-care-website    14 hrs              ████████░░░░░░░░░░░░░░░░░   33.72 % 
-portfolio                4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-arsenie-portfolio        2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+prostate-care            16 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.56 % 
+prostate-care-website    14 hrs              █████████░░░░░░░░░░░░░░░░   35.40 % 
+arsenie-portfolio        3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+portfolio                1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+arzenikos.github.io      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
-
-**I Mostly Code in Python** 
 
 ```text
-Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Astro                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Ruby                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+
 ```
 
 
 
 
- Last Updated on 28/10/2026 02:16:15 UTC
+ Last Updated on 29/10/2026 00:24:36 UTC
 <!--END_SECTION:waka-->
 
   <br/>
