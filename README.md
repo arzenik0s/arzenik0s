@@ -24,8 +24,6 @@
     <tr>
       <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system"><img width="100" height="100" alt="kronos-app-logo" title="Kronos | Roster Orchestration Agent" src="https://github.com/user-attachments/assets/28d1ef66-3b9c-4151-9dda-f36d3451b978" /></a></td>
       <td><a href="https://github.com/arzenik0s/latent-defect-test-lab"><img width="100" height="100" alt="holding-pattern-logo" title="Holding Pattern | Latent Defect Test Lab" src="https://github.com/user-attachments/assets/ee245490-ca4c-49ed-b678-a9fff7ecfbe6" /></a></td>
-      <td><a href="https://github.com/arzenik0s/black-box-reader"><img width="100" height="100" alt="squawk-7700-logo" title="Squawk-7700 | Blackbox Reader" src="https://github.com/user-attachments/assets/6016def3-824e-4a71-a100-ca81b7d78afd" />
-      <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="cleared-for-patch-logo" title="Cleared4Patch | Cyber Maturity & Risk Tracker" src="https://github.com/user-attachments/assets/4fc7d5dd-e918-47a8-96a5-b6bcbc53462f" /></a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe"><img width="100" height="100" alt="orbitlens-app-logo" title="Orbitlens | 3D Satellite Globe" src="https://github.com/user-attachments/assets/07e84aba-6df2-425b-9e6c-988c82a64a6a" /></a></td>
       <td><a href="https://github.com/arzenik0s/job-application-tracking-agent"><img width="100" height="100" alt="job-goblin-app-logo" title="JobGoblin | Application Tracker" src="https://github.com/user-attachments/assets/07bf58f0-e579-404b-a6bd-435df3811633" /></a></td>
 </a></td>
@@ -33,8 +31,6 @@
     <tr align="center">
       <td><a href="https://github.com/arzenik0s/workforce-orchestration-agentic-system">KronOS</a></td>
       <td><a href="https://github.com/arzenik0s/latent-defect-test-lab">Holding Pattern 🔒︎</a></td>
-      <td><a href="https://github.com/arzenik0s/black-box-reader">Squawk-7700 🔒︎</a></td>
-      <td><a href="https://github.com/arzenik0s/cleared-for-patch">Cleared4Patch 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/3d-satellite-globe">Orbitlens 🔒︎</a></td>
       <td><a href="https://github.com/arzenik0s/job-application-tracking-agent">JobGoblin 🔒︎</a></td>
     </tr>
