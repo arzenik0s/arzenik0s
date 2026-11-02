@@ -13,7 +13,7 @@
 
 ᵗʰʳᵒᵘᵍʰ ʰᵃʳᵈˢʰⁱᵖˢ ᵗᵒ ᵗʰᵉ ˢᵗᵃʳˢ
 
-  [![Website](https://img.shields.io/badge/Projects-View%20on%20GitHub%20Pages-181717?style=for-the-badge&logo=github)](arzen1kos.github.io)
+  [![Website](https://img.shields.io/badge/Projects-View%20on%20GitHub%20Pages-181717?style=for-the-badge&logo=github)](https://arzen1kos.github.io/)
 
   ────────── ⋆⋅~⟢~⋅⋆ ──────────
 
